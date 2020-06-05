@@ -1,4 +1,16 @@
-.App {
-  text-align: center;
+.body{
+  background: linear-gradient(top, #00c6fb 0%, #005bea 100%);
+
 }
 
+.main-card-to-display-data{
+  background: rgb(130,203,235);
+  background: linear-gradient(0deg, rgba(130,203,235,1) 5%, rgba(135,206,250,1) 17%, rgba(3,142,247,1) 46%, rgba(3,88,247,1) 76%);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  height: 500px;
+  width: 900px;
+  border-radius: 10px;
+}
